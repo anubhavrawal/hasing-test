@@ -2,6 +2,8 @@
 Anubhav Rawal
 anubhav.rawal@wmich.edu
 
+**Refer to the Report.pf file for more detail on the project**
+
 **Naming convension:**
 - https://visualgit.readthedocs.io/en/latest/pages/naming_convention.html
 - Can also be found in the attached pdf named: **Python Naming Conventions.pdf**
