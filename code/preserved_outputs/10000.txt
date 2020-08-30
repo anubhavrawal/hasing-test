@@ -1,0 +1,72 @@
+Enter the number of bags(Must be >0): Looking for Fine Lionguard Iron Mace... 
+
+Sorry the item you are looking for was not found!!!
+
+Single search:  0.008093899999948917
+Average:  0.01323006999991776
+Looking for Masterwork Bandit Slicer... 
+
+Sorry the item you are looking for was not found!!!
+
+Single search:  0.05995990000155871
+Average:  0.03327279000004637
+Looking for Fine Model L-12 Dissection Tool... 
+
+Sorry the item you are looking for was not found!!!
+
+Single search:  0.046300100002554245
+Average:  0.04509176999999909
+Looking for Rare Verdant Shield... 
+
+Sorry the item you are looking for was not found!!!
+
+Single search:  0.027132899998832727
+Average:  0.03004213999993226
+Looking for Rare Ebon Vanguard Focus... 
+
+Sorry the item you are looking for was not found!!!
+
+Single search:  0.0380191999975068
+Average:  0.04382368000005954
+Looking for Rare Lionguard Hammer... 
+
+Sorry the item you are looking for was not found!!!
+
+Single search:  0.03936289999910514
+Average:  0.053651430000172695
+Looking for Rare Adamant Guard Dagger... 
+
+Sorry the item you are looking for was not found!!!
+
+Single search:  0.012905100000352832
+Average:  0.03390959999996994
+Looking for Rare Peacemaker'S Rifle... 
+
+Sorry the item you are looking for was not found!!!
+
+Single search:  0.11785779999991064
+Average:  0.08538832999984151
+Looking for Rare Lionguard Hammer... 
+
+Sorry the item you are looking for was not found!!!
+
+Single search:  0.05838220000077854
+Average:  0.07560572000002139
+Looking for Rare Glyphic Maul... 
+
+Sorry the item you are looking for was not found!!!
+
+Single search:  0.042908600000373553
+Average:  0.03861460000007355
+Looking for Rare Shiverpeak Trident... 
+
+Sorry the item you are looking for was not found!!!
+
+Single search:  0.04178379999939352
+Average:  0.026257189999887486
+Looking for Rare Ebon Vanguard Sword... 
+
+Sorry the item you are looking for was not found!!!
+
+Single search:  0.0484625999997661
+Average:  0.05079676999994263

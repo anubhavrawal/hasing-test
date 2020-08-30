@@ -1,0 +1,155 @@
+Enter the number of bags(Must be >0): Masterwork Shiny Scratch Rifle 602 
+Rare Pirate Hatchet 397 
+Rare Steam Trident 384 
+Fine Hunter'S Short Bow 162 
+Rare Shiverpeak Short Bow 380 
+Rare Norn Rifle 640 
+
+Looking for Masterwork Black Earth Trident... 
+
+Bag:0
+Single search:  9.300001693191007e-06
+Average:  2.809999932651408e-06
+Rare Verdant Staff 653 
+Fine Orewood Axe 142 
+Fine Hunter'S Trident 512 
+Rare Lionguard Axe 647 
+Rare Lionguard Axe 793 
+Rare Lionguard Axe 369 
+
+Looking for Masterwork Lionguard Hammer... 
+
+Sorry the item you are looking for was not found!!!
+
+Single search:  7.299997378140688e-06
+Average:  3.7099998735357076e-06
+Rare Wolfborn Rifle 883 
+Rare Flame Short Bow 624 
+Rare Seraph Trident 851 
+Fine Togatl Trident 221 
+Rare Wolfborn Staff 918 
+Rare Shiverpeak Staff 459 
+
+Looking for Fine Bandit Ward... 
+
+Sorry the item you are looking for was not found!!!
+
+Single search:  8.499999239575118e-06
+Average:  5.089999831398018e-06
+Masterwork Shiny Scratch Rifle  
+Rare Glyphic Short Bow  
+Rare Aureate Axe  
+Rare Lionguard Axe  
+Fine Hunter'S Short Bow  
+Rare Shiverpeak Short Bow  
+
+Looking for Rare Steam Speargun... 
+
+Sorry the item you are looking for was not found!!!
+
+Single search:  9.60000033956021e-06
+Average:  3.6999997973907737e-06
+Rare Lionguard Rifle  
+Fine Test Associate'S Staff Mark I  
+Rare Glyphic Trispear  
+Rare Pirate Crook  
+Fine Waterlogged Rifle  
+Rare Verdant Short Bow  
+
+Looking for Fine Foewatch Shield... 
+
+Sorry the item you are looking for was not found!!!
+
+Single search:  9.999999747378752e-06
+Average:  4.740000076708384e-06
+Rare Ebon Vanguard Axe  
+Rare Lionguard Trident  
+Masterwork Hunter'S Short Bow  
+Rare Wolfborn Rifle  
+Rare Black Earth Trident  
+Rare Norn Trident  
+
+Looking for Rare Lionguard Gizmo... 
+
+Sorry the item you are looking for was not found!!!
+
+Single search:  1.170000177808106e-05
+Average:  7.050000203889795e-06
+Fine Hunter'S Trident 476 
+Masterwork Rifle 248 
+Rare Steam Trident 399 
+Rare Pirate Hatchet 414 
+Fine Hunter'S Short Bow 207 
+Fine Hunter'S Short Bow 163 
+
+Looking for Rare Verdant Mace... 
+
+Sorry the item you are looking for was not found!!!
+
+Single search:  6.099999154685065e-06
+Average:  2.9699996957788246e-06
+Masterwork Terebinth Staff 245 
+Rare Lionguard Short Bow 586 
+Rare Lionguard Short Bow 588 
+Rare Lionguard Trident 412 
+Rare Lionguard Short Bow 852 
+Rare Lionguard Trident 569 
+
+Looking for Rare Adamant Guard Mace... 
+
+Sorry the item you are looking for was not found!!!
+
+Single search:  1.5300000086426735e-05
+Average:  7.159999950090423e-06
+Rare Krytan Staff 420 
+Fine Togatl Trident 238 
+Rare Black Earth Trident 826 
+Rare Wolfborn Staff 912 
+Rare Ebon Vanguard Rifle 488 
+Rare Ebon Vanguard Rifle 1004 
+
+Looking for Fine Bandit Baton... 
+
+Sorry the item you are looking for was not found!!!
+
+Single search:  8.499999239575118e-06
+Average:  6.149999899207615e-06
+Masterwork Bandit Cleaver 752 
+Rare Aureate Axe 567 
+Masterwork Rifle 269 
+Fine Hunter'S Trident 482 
+Fine Hunter'S Short Bow 168 
+Rare Seraph Trident 885 
+
+Looking for Masterwork Truffle-Baited Harpoon... 
+
+Sorry the item you are looking for was not found!!!
+
+Single search:  1.5199999324977398e-05
+Average:  4.6300003305077554e-06
+Masterwork Oooooo Chum Trispear 605 
+Rare Adamant Guard Short Bow 863 
+Rare Lionguard Short Bow 411 
+Rare Pirate Crook 446 
+Rare Verdant Trident 618 
+Rare Ebon Vanguard Axe 358 
+
+Looking for Rare Lionguard Gizmo... 
+
+Sorry the item you are looking for was not found!!!
+
+Single search:  8.800001523923129e-06
+Average:  5.539999983739108e-06
+Fine Black Earth Trident 752 
+Rare Lionguard Rifle 474 
+Rare Wolfborn Rifle 995 
+Rare Lionguard Staff 688 
+Fine Togatl Trident 233 
+Rare Shiverpeak Staff 421 
+
+Looking for Rare Warden Mace... 
+
+Sorry the item you are looking for was not found!!!
+
+Single search:  1.1000000085914508e-05
+Average:  5.8499997976468874e-06

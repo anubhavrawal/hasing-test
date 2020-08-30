@@ -1,0 +1,1032 @@
+Enter the number of bags(Must be >0): The content of bag 1 are as follows:::::
+Rare Lionguard Short Bow 404 
+Rare Lionguard Short Bow 399 
+Rare Lionguard Short Bow 567 
+Rare Lionguard Short Bow 593 
+Rare Lionguard Short Bow 842 
+Rare Aureate Short Bow 620 
+
+The content of bag 2 are as follows:::::
+Rare Lionguard Short Bow 805 
+Masterwork Truffle-Baited Trident 254 
+Rare Lionguard Short Bow 381 
+Rare Lionguard Short Bow 402 
+Rare Pirate Hatchet 392 
+Fine Thunderhead Axe 453 
+
+The content of bag 3 are as follows:::::
+Rare Lionguard Short Bow 576 
+Rare Lionguard Short Bow 575 
+Rare Lionguard Short Bow 808 
+Rare Lionguard Short Bow 887 
+Rare Aureate Short Bow 588 
+Fine Test Associate'S Staff Mark I 641 
+
+The content of bag 4 are as follows:::::
+Masterwork Truffle-Baited Trident 258 
+Rare Lionguard Short Bow 408 
+Rare Lionguard Short Bow 396 
+Rare Lionguard Short Bow 573 
+Rare Lionguard Short Bow 614 
+Rare Lionguard Short Bow 887 
+
+The content of bag 5 are as follows:::::
+Rare Lionguard Short Bow 854 
+Masterwork Truffle-Baited Trident 242 
+Rare Aureate Short Bow 614 
+Rare Pirate Hatchet 433 
+Fine Thunderhead Axe 449 
+Fine Hunter'S Short Bow 217 
+
+The content of bag 6 are as follows:::::
+Rare Lionguard Short Bow 404 
+Rare Lionguard Short Bow 393 
+Rare Lionguard Short Bow 618 
+Rare Lionguard Short Bow 596 
+Rare Lionguard Short Bow 847 
+Rare Aureate Short Bow 582 
+
+The content of bag 7 are as follows:::::
+Rare Lionguard Short Bow 854 
+Masterwork Truffle-Baited Trident 247 
+Rare Lionguard Short Bow 385 
+Rare Lionguard Short Bow 404 
+Rare Lionguard Short Bow 573 
+Rare Pirate Hatchet 385 
+
+The content of bag 8 are as follows:::::
+Rare Lionguard Short Bow 608 
+Rare Lionguard Short Bow 836 
+Rare Lionguard Short Bow 856 
+Masterwork Truffle-Baited Trident 253 
+Rare Aureate Short Bow 623 
+Fine Test Associate'S Staff Mark I 638 
+
+The content of bag 9 are as follows:::::
+Rare Lionguard Short Bow 404 
+Rare Lionguard Short Bow 403 
+Rare Lionguard Short Bow 623 
+Rare Lionguard Short Bow 609 
+Rare Lionguard Short Bow 804 
+Rare Aureate Short Bow 604 
+
+The content of bag 10 are as follows:::::
+Rare Lionguard Short Bow 863 
+Masterwork Truffle-Baited Trident 256 
+Rare Lionguard Short Bow 382 
+Rare Lionguard Short Bow 388 
+Rare Lionguard Short Bow 579 
+Rare Pirate Hatchet 404 
+
+Looking for Rare Steamblade... 
+
+Sorry the item you are looking for was not found!!!
+
+Single search:  1.5400000847876072e-05
+Average:  8.990000060293823e-06
+The content of bag 1 are as follows:::::
+Fine Opticalium Focusing Stick 163 
+Rare Wolfborn Staff 883 
+Masterwork Improved Waterlogged Rifle 683 
+Fine Ancient Short Bow 161 
+Masterwork Hatchet 234 
+Rare Norn Rifle 679 
+
+The content of bag 2 are as follows:::::
+Fine Opticalium Focusing Stick 166 
+Rare Seraph Trident 864 
+Rare Wolfborn Staff 931 
+Masterwork Improved Waterlogged Rifle 605 
+Rare Krytan Short Bow 405 
+Rare Warden Short Bow 824 
+
+The content of bag 3 are as follows:::::
+Rare Seraph Trident 881 
+Rare Krytan Short Bow 409 
+Rare Warden Short Bow 802 
+Rare Krytan Axe 421 
+Masterwork Hatchet 233 
+Rare Norn Rifle 684 
+
+The content of bag 4 are as follows:::::
+Fine Opticalium Focusing Stick 160 
+Rare Wolfborn Staff 941 
+Masterwork Improved Waterlogged Rifle 584 
+Fine Ancient Short Bow 152 
+Masterwork Hatchet 280 
+Masterwork Hatchet 260 
+
+The content of bag 5 are as follows:::::
+Fine Opticalium Focusing Stick 162 
+Rare Seraph Trident 842 
+Rare Wolfborn Staff 878 
+Rare Krytan Short Bow 410 
+Rare Warden Short Bow 852 
+Rare Krytan Axe 379 
+
+The content of bag 6 are as follows:::::
+Rare Seraph Trident 840 
+Masterwork Improved Waterlogged Rifle 609 
+Fine Ancient Short Bow 158 
+Rare Krytan Axe 376 
+Masterwork Hatchet 222 
+Rare Norn Rifle 729 
+
+The content of bag 7 are as follows:::::
+Fine Opticalium Focusing Stick 175 
+Rare Wolfborn Staff 959 
+Masterwork Improved Waterlogged Rifle 581 
+Rare Krytan Short Bow 409 
+Rare Warden Short Bow 826 
+Fine Ancient Short Bow 153 
+
+The content of bag 8 are as follows:::::
+Rare Seraph Trident 832 
+Rare Krytan Short Bow 407 
+Rare Warden Short Bow 854 
+Rare Krytan Axe 393 
+Masterwork Hatchet 257 
+Rare Norn Rifle 641 
+
+The content of bag 9 are as follows:::::
+Fine Opticalium Focusing Stick 156 
+Rare Seraph Trident 873 
+Rare Wolfborn Staff 892 
+Masterwork Improved Waterlogged Rifle 643 
+Fine Ancient Short Bow 159 
+Rare Krytan Axe 399 
+
+The content of bag 10 are as follows:::::
+Fine Opticalium Focusing Stick 175 
+Rare Wolfborn Staff 887 
+Masterwork Improved Waterlogged Rifle 683 
+Rare Krytan Short Bow 392 
+Rare Warden Short Bow 886 
+Fine Ancient Short Bow 158 
+
+Looking for Rare Glyphic Longbow... 
+
+Sorry the item you are looking for was not found!!!
+
+Single search:  3.7000001611886546e-05
+Average:  2.064000000245869e-05
+The content of bag 1 are as follows:::::
+Rare Black Earth Trident 853 
+Rare Wolfborn Staff 892 
+Rare Norn Trident 624 
+Masterwork Rifle 265 
+Rare Shiverpeak Staff 464 
+Rare Pirate Trident 403 
+
+The content of bag 2 are as follows:::::
+Fine Black Earth Trident 727 
+Rare Warden Trident 878 
+Rare Wolfborn Rifle 1023 
+Fine Togatl Trident 223 
+Rare Seraph Trident 822 
+Rare Flame Short Bow 594 
+
+The content of bag 3 are as follows:::::
+Fine Black Earth Trident 751 
+Rare Warden Trident 874 
+Rare Wolfborn Rifle 902 
+Rare Black Earth Trident 850 
+Rare Wolfborn Staff 972 
+Fine Togatl Trident 218 
+
+The content of bag 4 are as follows:::::
+Rare Flame Short Bow 572 
+Rare Black Earth Trident 826 
+Rare Norn Trident 578 
+Masterwork Rifle 271 
+Rare Shiverpeak Staff 432 
+Rare Pirate Trident 378 
+
+The content of bag 5 are as follows:::::
+Fine Black Earth Trident 741 
+Rare Warden Trident 824 
+Rare Wolfborn Rifle 962 
+Rare Wolfborn Staff 944 
+Fine Togatl Trident 234 
+Rare Seraph Trident 834 
+
+The content of bag 6 are as follows:::::
+Fine Black Earth Trident 752 
+Rare Warden Trident 834 
+Rare Black Earth Trident 826 
+Rare Wolfborn Staff 900 
+Masterwork Rifle 235 
+Rare Pirate Trident 384 
+
+The content of bag 7 are as follows:::::
+Rare Wolfborn Rifle 878 
+Fine Togatl Trident 232 
+Rare Seraph Trident 885 
+Rare Flame Short Bow 577 
+Rare Black Earth Trident 802 
+Rare Norn Trident 590 
+
+The content of bag 8 are as follows:::::
+Fine Black Earth Trident 718 
+Rare Warden Trident 810 
+Rare Wolfborn Rifle 878 
+Rare Wolfborn Staff 923 
+Fine Togatl Trident 220 
+Rare Seraph Trident 850 
+
+The content of bag 9 are as follows:::::
+Fine Black Earth Trident 702 
+Rare Warden Trident 832 
+Rare Black Earth Trident 821 
+Rare Wolfborn Staff 943 
+Rare Norn Trident 575 
+Masterwork Rifle 249 
+
+The content of bag 10 are as follows:::::
+Rare Wolfborn Rifle 1028 
+Fine Togatl Trident 236 
+Rare Seraph Trident 807 
+Rare Flame Short Bow 592 
+Rare Norn Trident 595 
+Masterwork Rifle 274 
+
+Looking for Rare Glyphic Edge... 
+
+Sorry the item you are looking for was not found!!!
+
+Single search:  3.739999738172628e-05
+Average:  3.485000015643891e-05
+The content of bag 1 are as follows:::::
+Rare Lionguard Short Bow  
+Rare Aureate Short Bow  
+Rare Glyphic Short Bow  
+Fine Test Associate'S Staff Mark I  
+Fine Twinspur Rifle  
+Fine Orewood Axe  
+
+The content of bag 2 are as follows:::::
+Rare Lionguard Short Bow  
+Rare Aureate Short Bow  
+Rare Pirate Hatchet  
+Fine Thunderhead Axe  
+Fine Twinspur Rifle  
+Rare Norn Short Bow  
+
+The content of bag 3 are as follows:::::
+Rare Lionguard Short Bow  
+Rare Steam Axe  
+Fine Test Associate'S Staff Mark I  
+Fine Hunter'S Short Bow  
+Rare Norn Short Bow  
+Rare Ebon Vanguard Short Bow  
+
+The content of bag 4 are as follows:::::
+Rare Lionguard Short Bow  
+Rare Aureate Short Bow  
+Rare Glyphic Short Bow  
+Fine Twinspur Rifle  
+Fine Orewood Axe  
+Rare Seraph Axe  
+
+The content of bag 5 are as follows:::::
+Rare Lionguard Short Bow  
+Rare Aureate Short Bow  
+Rare Steam Axe  
+Fine Test Associate'S Staff Mark I  
+Rare Norn Short Bow  
+Rare Ebon Vanguard Short Bow  
+
+The content of bag 6 are as follows:::::
+Rare Lionguard Short Bow  
+Rare Steam Axe  
+Fine Test Associate'S Staff Mark I  
+Fine Twinspur Rifle  
+Rare Norn Short Bow  
+Rare Aureate Staff  
+
+The content of bag 7 are as follows:::::
+Rare Lionguard Short Bow  
+Rare Aureate Short Bow  
+Rare Pirate Hatchet  
+Rare Adamant Guard Rifle  
+Rare Lionguard Staff  
+Fine Twinspur Rifle  
+
+The content of bag 8 are as follows:::::
+Rare Lionguard Short Bow  
+Rare Steam Axe  
+Fine Test Associate'S Staff Mark I  
+Rare Lionguard Staff  
+Rare Norn Short Bow  
+Rare Ebon Vanguard Short Bow  
+
+The content of bag 9 are as follows:::::
+Rare Lionguard Short Bow  
+Rare Aureate Short Bow  
+Rare Glyphic Short Bow  
+Fine Test Associate'S Staff Mark I  
+Fine Twinspur Rifle  
+Fine Orewood Axe  
+
+The content of bag 10 are as follows:::::
+Rare Lionguard Short Bow  
+Rare Aureate Short Bow  
+Rare Pirate Hatchet  
+Rare Adamant Guard Rifle  
+Rare Lionguard Staff  
+Fine Twinspur Rifle  
+
+Looking for Rare Ebon Vanguard Staff... 
+
+Sorry the item you are looking for was not found!!!
+
+Single search:  7.899999764049426e-05
+Average:  2.200999988417607e-05
+The content of bag 1 are as follows:::::
+Fine Opticalium Focusing Stick  
+Rare Lionguard Rifle  
+Rare Glyphic Rifle  
+Masterwork Fine Hunter'S Trident  
+Rare Adamant Guard Short Bow  
+Masterwork Hunter'S Short Bow  
+
+The content of bag 2 are as follows:::::
+Fine Opticalium Focusing Stick  
+Rare Lionguard Staff  
+Rare Shiverpeak Hatchet  
+Rare Lionguard Rifle  
+Fine Black Earth Trident  
+Rare Steam Axe  
+
+The content of bag 3 are as follows:::::
+Rare Krytan Trident  
+Rare Lionguard Staff  
+Rare Lionguard Rifle  
+Fine Windgrown Short Bow  
+Masterwork Fine Hunter'S Trident  
+Rare Adamant Guard Short Bow  
+
+The content of bag 4 are as follows:::::
+Fine Opticalium Focusing Stick  
+Rare Lionguard Staff  
+Rare Lionguard Rifle  
+Rare Shiverpeak Hatchet  
+Rare Lionguard Rifle  
+Rare Glyphic Short Bow  
+
+The content of bag 5 are as follows:::::
+Rare Lionguard Trident  
+Rare Lionguard Staff  
+Rare Ebon Vanguard Short Bow  
+Rare Verdant Trident  
+Fine Black Earth Trident  
+Rare Steam Axe  
+
+The content of bag 6 are as follows:::::
+Fine Opticalium Focusing Stick  
+Rare Lionguard Staff  
+Rare Lionguard Rifle  
+Fine Windgrown Short Bow  
+Masterwork Fine Hunter'S Trident  
+Rare Adamant Guard Short Bow  
+
+The content of bag 7 are as follows:::::
+Fine Opticalium Focusing Stick  
+Rare Lionguard Staff  
+Rare Shiverpeak Hatchet  
+Rare Lionguard Rifle  
+Rare Glyphic Short Bow  
+Masterwork Hunter'S Short Bow  
+
+The content of bag 8 are as follows:::::
+Rare Lionguard Trident  
+Rare Lionguard Staff  
+Rare Ebon Vanguard Short Bow  
+Rare Lionguard Rifle  
+Rare Adamant Guard Short Bow  
+Rare Steam Axe  
+
+The content of bag 9 are as follows:::::
+Fine Opticalium Focusing Stick  
+Rare Lionguard Rifle  
+Rare Glyphic Rifle  
+Masterwork Fine Hunter'S Trident  
+Rare Adamant Guard Short Bow  
+Masterwork Hunter'S Short Bow  
+
+The content of bag 10 are as follows:::::
+Fine Opticalium Focusing Stick  
+Rare Lionguard Staff  
+Rare Shiverpeak Hatchet  
+Rare Lionguard Rifle  
+Fine Black Earth Trident  
+Rare Glyphic Short Bow  
+
+Looking for Rare Verdant Speargun... 
+
+Sorry the item you are looking for was not found!!!
+
+Single search:  3.3399999665562063e-05
+Average:  2.8590000147232787e-05
+The content of bag 1 are as follows:::::
+Rare Seraph Staff  
+Fine Quetzal Trident  
+Rare Wolfborn Rifle  
+Rare Flame Short Bow  
+Rare Norn Trident  
+Rare Pirate Trident  
+
+The content of bag 2 are as follows:::::
+Fine Black Earth Trident  
+Rare Pirate Trident  
+Fine Quetzal Trident  
+Rare Wolfborn Rifle  
+Rare Ebon Vanguard Short Bow  
+Rare Black Earth Trident  
+
+The content of bag 3 are as follows:::::
+Fine Black Earth Trident  
+Rare Bandit Cleaver  
+Rare Warden Trident  
+Rare Ebon Vanguard Short Bow  
+Rare Flame Short Bow  
+Rare Norn Trident  
+
+The content of bag 4 are as follows:::::
+Fine Quetzal Trident  
+Rare Wolfborn Rifle  
+Rare Flame Short Bow  
+Masterwork Rifle  
+Rare Pirate Trident  
+Rare Aureate Musket  
+
+The content of bag 5 are as follows:::::
+Fine Black Earth Trident  
+Rare Pirate Hatchet  
+Fine Caer Axe  
+Rare Warden Trident  
+Rare Ebon Vanguard Short Bow  
+Fine Togatl Trident  
+
+The content of bag 6 are as follows:::::
+Rare Wolfborn Rifle  
+Rare Flame Short Bow  
+Rare Norn Trident  
+Rare Pirate Trident  
+Rare Ebon Vanguard Rifle  
+Rare Ebon Vanguard Staff  
+
+The content of bag 7 are as follows:::::
+Fine Black Earth Trident  
+Fine Quetzal Trident  
+Rare Wolfborn Rifle  
+Rare Ebon Vanguard Short Bow  
+Rare Wolfborn Staff  
+Masterwork Rifle  
+
+The content of bag 8 are as follows:::::
+Fine Black Earth Trident  
+Rare Warden Trident  
+Rare Ebon Vanguard Short Bow  
+Fine Togatl Trident  
+Rare Norn Trident  
+Rare Shiverpeak Staff  
+
+The content of bag 9 are as follows:::::
+Rare Seraph Staff  
+Fine Quetzal Trident  
+Rare Wolfborn Rifle  
+Rare Flame Short Bow  
+Rare Norn Trident  
+Rare Pirate Trident  
+
+The content of bag 10 are as follows:::::
+Fine Black Earth Trident  
+Fine Quetzal Trident  
+Rare Wolfborn Rifle  
+Rare Ebon Vanguard Short Bow  
+Rare Black Earth Trident  
+Masterwork Rifle  
+
+Looking for Rare Shiverpeak Short Bow... 
+
+Sorry the item you are looking for was not found!!!
+
+Single search:  6.289999873843044e-05
+Average:  5.024999991292134e-05
+The content of bag 1 are as follows:::::
+Rare Lionguard Short Bow 612 
+Rare Lionguard Short Bow 386 
+Rare Adamant Guard Rifle 933 
+Fine Thunderhead Axe 492 
+Fine Tamini Axe 170 
+Fine Twinspur Rifle 209 
+
+The content of bag 2 are as follows:::::
+Rare Lionguard Short Bow 821 
+Rare Lionguard Short Bow 386 
+Rare Lionguard Short Bow 586 
+Rare Pirate Hatchet 427 
+Rare Lionguard Short Bow 812 
+Fine Test Associate'S Staff Mark I 633 
+
+The content of bag 3 are as follows:::::
+Rare Lionguard Short Bow 583 
+Rare Lionguard Short Bow 379 
+Rare Lionguard Short Bow 886 
+Rare Lionguard Short Bow 389 
+Rare Lionguard Short Bow 595 
+Fine Hunter'S Short Bow 175 
+
+The content of bag 4 are as follows:::::
+Masterwork Truffle-Baited Trident 239 
+Rare Aureate Short Bow 564 
+Rare Lionguard Short Bow 582 
+Fine Thunderhead Axe 518 
+Rare Lionguard Short Bow 382 
+Fine Twinspur Rifle 191 
+
+The content of bag 5 are as follows:::::
+Rare Lionguard Short Bow 848 
+Rare Lionguard Short Bow 384 
+Rare Lionguard Short Bow 564 
+Rare Pirate Hatchet 381 
+Rare Lionguard Short Bow 809 
+Fine Test Associate'S Staff Mark I 600 
+
+The content of bag 6 are as follows:::::
+Rare Lionguard Short Bow 584 
+Rare Lionguard Short Bow 384 
+Fine Tamini Axe 186 
+Rare Lionguard Staff 875 
+Rare Lionguard Short Bow 850 
+Fine Hunter'S Short Bow 168 
+
+The content of bag 7 are as follows:::::
+Rare Lionguard Short Bow 854 
+Rare Aureate Short Bow 572 
+Masterwork Truffle-Baited Trident 247 
+Fine Test Associate'S Staff Mark I 640 
+Fine Thunderhead Axe 505 
+Fine Twinspur Rifle 207 
+
+The content of bag 8 are as follows:::::
+Rare Lionguard Short Bow 411 
+Rare Lionguard Short Bow 856 
+Rare Lionguard Short Bow 414 
+Rare Lionguard Short Bow 622 
+Rare Pirate Hatchet 424 
+Fine Hunter'S Short Bow 216 
+
+The content of bag 9 are as follows:::::
+Rare Lionguard Short Bow 595 
+Rare Lionguard Short Bow 406 
+Fine Tamini Axe 164 
+Rare Lionguard Staff 902 
+Rare Lionguard Short Bow 860 
+Fine Twinspur Rifle 196 
+
+The content of bag 10 are as follows:::::
+Rare Lionguard Short Bow 585 
+Rare Lionguard Short Bow 852 
+Rare Pirate Hatchet 387 
+Fine Test Associate'S Staff Mark I 638 
+Rare Aureate Short Bow 605 
+Masterwork Truffle-Baited Trident 252 
+
+Looking for Rare Flame Pistol... 
+
+Sorry the item you are looking for was not found!!!
+
+Single search:  1.849999898695387e-05
+Average:  1.474999990023207e-05
+The content of bag 1 are as follows:::::
+Fine Opticalium Focusing Stick 163 
+Fine Hunter'S Short Bow 165 
+Rare Lionguard Trident 595 
+Rare Verdant Staff 647 
+Rare Norn Short Bow 604 
+Rare Ebon Vanguard Axe 559 
+
+The content of bag 2 are as follows:::::
+Fine Opticalium Focusing Stick 167 
+Rare Shiverpeak Hatchet 418 
+Rare Lionguard Short Bow 571 
+Fine Twinspur Rifle 183 
+Rare Flame Cleaver 559 
+Fine Model Rx-11 Rifle 180 
+
+The content of bag 3 are as follows:::::
+Rare Lionguard Axe 386 
+Rare Pirate Boomstick 461 
+Rare Adamant Guard Trident 829 
+Rare Ebon Vanguard Rifle 678 
+Rare Pirate Needler 418 
+Masterwork Black Earth Trident 804 
+
+The content of bag 4 are as follows:::::
+Fine Opticalium Focusing Stick 157 
+Rare Verdant Rifle 730 
+Masterwork Truffle-Baited Trident 254 
+Rare Warden Axe 840 
+Fine Hylek Fish Poker 171 
+Fine Blood Legion Axe 152 
+
+The content of bag 5 are as follows:::::
+Rare Lionguard Trident 416 
+Rare Lionguard Rifle 711 
+Rare Ebon Vanguard Staff 419 
+Fine Historian'S Staff 203 
+Rare Krytan Trident 411 
+Rare Verdant Trident 620 
+
+The content of bag 6 are as follows:::::
+Rare Ebon Vanguard Trident 834 
+Rare Lionguard Trident 600 
+Rare Glyphic Trispear 402 
+Rare Ebon Vanguard Axe 428 
+Rare Wolfborn Rifle 910 
+Fine Potatlan'S Axe 477 
+
+The content of bag 7 are as follows:::::
+Fine Opticalium Focusing Stick 170 
+Rare Peacemaker'S Trident 806 
+Rare Bandit Short Bow 847 
+Fine Wren Axe 524 
+Rare Warden Staff 963 
+Masterwork Silenced Order Short Bow 451 
+
+The content of bag 8 are as follows:::::
+Rare Verdant Short Bow 575 
+Masterwork Shadowed Researcher'S Staff 281 
+Fine Warden'S Staff 174 
+Rare Ebon Vanguard Rifle 445 
+Rare Lionguard Staff 887 
+Rare Lionguard Rifle 719 
+
+The content of bag 9 are as follows:::::
+Masterwork Improved Dryground Short Bow 568 
+Fine Kraitbane Model I Rifle 234 
+Rare Steam Axe 401 
+Fine Hatchet 275 
+Fine Separatist Rifle 195 
+Masterwork Hunter'S Short Bow 231 
+
+The content of bag 10 are as follows:::::
+Fine Opticalium Focusing Stick 162 
+Rare Krytan Rifle 485 
+Rare Verdant Short Bow 591 
+Fine Togatl Trident 238 
+Fine Experimental Collection Staff 498 
+Rare Ebon Vanguard Staff 984 
+
+Looking for Rare Verdant Short Bow... 
+
+Sorry the item you are looking for was not found!!!
+
+Single search:  7.840000034775585e-05
+Average:  5.168999996385537e-05
+The content of bag 1 are as follows:::::
+Rare Warden Trident 885 
+Rare Wolfborn Rifle 883 
+Rare Seraph Trident 825 
+Rare Flame Short Bow 605 
+Fine Togatl Trident 238 
+Rare Aureate Musket 748 
+
+The content of bag 2 are as follows:::::
+Masterwork Bandit Short Bow 779 
+Fine Black Earth Trident 728 
+Rare Ebon Vanguard Axe 809 
+Rare Wolfborn Staff 904 
+Rare Norn Trident 575 
+Rare Pirate Trident 404 
+
+The content of bag 3 are as follows:::::
+Rare Krytan Staff 445 
+Fine Lion'S Fang Model I 250 
+Masterwork Bandit Short Bow 779 
+Fine Black Earth Trident 742 
+Rare Warden Trident 817 
+Rare Wolfborn Rifle 959 
+
+The content of bag 4 are as follows:::::
+Rare Ebon Vanguard Axe 583 
+Rare Warden Trident 866 
+Rare Wolfborn Rifle 994 
+Rare Seraph Trident 848 
+Rare Flame Short Bow 582 
+Rare Pirate Trident 395 
+
+The content of bag 5 are as follows:::::
+Masterwork Bandit Short Bow 811 
+Fine Black Earth Trident 754 
+Rare Ebon Vanguard Axe 887 
+Rare Wolfborn Staff 907 
+Masterwork Rifle 239 
+Rare Norn Trident 589 
+
+The content of bag 6 are as follows:::::
+Rare Krytan Staff 436 
+Fine Lion'S Fang Model I 239 
+Masterwork Bandit Short Bow 770 
+Rare Warden Trident 845 
+Rare Wolfborn Rifle 964 
+Rare Flame Short Bow 622 
+
+The content of bag 7 are as follows:::::
+Fine Black Earth Trident 708 
+Rare Warden Trident 839 
+Rare Wolfborn Staff 930 
+Rare Norn Trident 570 
+Rare Pirate Trident 415 
+Rare Ebon Vanguard Rifle 411 
+
+The content of bag 8 are as follows:::::
+Fine Lion'S Fang Model I 214 
+Masterwork Bandit Short Bow 761 
+Fine Black Earth Trident 730 
+Rare Ebon Vanguard Axe 899 
+Rare Wolfborn Rifle 971 
+Fine Togatl Trident 233 
+
+The content of bag 9 are as follows:::::
+Rare Warden Trident 843 
+Rare Wolfborn Rifle 941 
+Rare Seraph Trident 851 
+Rare Flame Short Bow 579 
+Fine Togatl Trident 233 
+Rare Aureate Musket 645 
+
+The content of bag 10 are as follows:::::
+Masterwork Bandit Short Bow 780 
+Fine Black Earth Trident 690 
+Rare Ebon Vanguard Axe 791 
+Rare Wolfborn Staff 883 
+Rare Norn Trident 611 
+Rare Pirate Trident 407 
+
+Looking for Rare Lionguard Trident... 
+
+Sorry the item you are looking for was not found!!!
+
+Single search:  7.059999916236848e-05
+Average:  4.723999991256278e-05
+The content of bag 1 are as follows:::::
+Masterwork Truffle-Baited Trident 244 
+Rare Aureate Short Bow 581 
+Fine Thunderhead Axe 469 
+Fine Hunter'S Short Bow 173 
+Fine Rifle 241 
+Rare Pirate Needler 396 
+
+The content of bag 2 are as follows:::::
+Rare Lionguard Short Bow 393 
+Rare Pirate Hatchet 359 
+Fine Test Associate'S Staff Mark I 636 
+Fine Twinspur Rifle 199 
+Rare Norn Short Bow 579 
+Fine Orewood Axe 166 
+
+The content of bag 3 are as follows:::::
+Rare Lionguard Short Bow 388 
+Rare Aureate Short Bow 594 
+Rare Pirate Hatchet 368 
+Fine Hunter'S Short Bow 220 
+Fine Rifle 231 
+Rare Pirate Needler 395 
+
+The content of bag 4 are as follows:::::
+Masterwork Truffle-Baited Trident 239 
+Rare Aureate Short Bow 582 
+Fine Test Associate'S Staff Mark I 612 
+Fine Twinspur Rifle 211 
+Fine Rifle 241 
+Rare Lionguard Axe 891 
+
+The content of bag 5 are as follows:::::
+Rare Lionguard Short Bow 389 
+Rare Pirate Hatchet 413 
+Fine Test Associate'S Staff Mark I 633 
+Fine Hunter'S Short Bow 221 
+Rare Norn Short Bow 602 
+Fine Orewood Axe 147 
+
+The content of bag 6 are as follows:::::
+Rare Lionguard Short Bow 573 
+Rare Aureate Short Bow 617 
+Rare Pirate Hatchet 377 
+Fine Hunter'S Short Bow 229 
+Fine Rifle 251 
+Rare Pirate Needler 397 
+
+The content of bag 7 are as follows:::::
+Rare Lionguard Short Bow 821 
+Rare Aureate Short Bow 612 
+Fine Test Associate'S Staff Mark I 579 
+Fine Twinspur Rifle 200 
+Rare Norn Short Bow 579 
+Fine Orewood Axe 169 
+
+The content of bag 8 are as follows:::::
+Rare Lionguard Short Bow 402 
+Rare Pirate Hatchet 429 
+Fine Test Associate'S Staff Mark I 593 
+Fine Hunter'S Short Bow 229 
+Rare Norn Short Bow 605 
+Rare Shiverpeak Hatchet 373 
+
+The content of bag 9 are as follows:::::
+Masterwork Truffle-Baited Trident 256 
+Rare Aureate Short Bow 608 
+Rare Pirate Hatchet 434 
+Fine Thunderhead Axe 464 
+Fine Hunter'S Short Bow 162 
+Fine Rifle 232 
+
+The content of bag 10 are as follows:::::
+Rare Lionguard Short Bow 848 
+Rare Flame Staff 676 
+Fine Test Associate'S Staff Mark I 608 
+Fine Twinspur Rifle 201 
+Rare Norn Short Bow 571 
+Fine Orewood Axe 152 
+
+Looking for Rare Ebon Vanguard Greatsword... 
+
+Sorry the item you are looking for was not found!!!
+
+Single search:  2.4600001779617742e-05
+Average:  3.0470000274362975e-05
+The content of bag 1 are as follows:::::
+Rare Bandit Spire 946 
+Fine Charged Staff 199 
+Rare Warden Short Bow 857 
+Rare Wolfborn Staff 882 
+Rare Peacemaker'S Axe 876 
+Rare Shiverpeak Arquebus 485 
+
+The content of bag 2 are as follows:::::
+Fine Opticalium Focusing Stick 160 
+Masterwork Improved Dryground Short Bow 541 
+Rare Warden Axe 811 
+Rare Seraph Trident 845 
+Rare Wolfborn Staff 979 
+Rare Aureate Trident 595 
+
+The content of bag 3 are as follows:::::
+Fine Opticalium Focusing Stick 173 
+Fine Black Earth Trident 710 
+Rare Seraph Trident 841 
+Rare Verdant Short Bow 618 
+Masterwork Improved Waterlogged Rifle 612 
+Fine Verdant Axe 147 
+
+The content of bag 4 are as follows:::::
+Rare Glyphic Rifle 465 
+Rare Warden Short Bow 822 
+Rare Wolfborn Staff 880 
+Rare Lionguard Axe 432 
+Rare Peacemaker'S Axe 797 
+Rare Krytan Short Bow 406 
+
+The content of bag 5 are as follows:::::
+Fine Opticalium Focusing Stick 156 
+Masterwork Improved Dryground Short Bow 535 
+Rare Seraph Trident 858 
+Rare Ebon Vanguard Trident 807 
+Rare Verdant Axe 600 
+Masterwork Hatchet 247 
+
+The content of bag 6 are as follows:::::
+Fine Opticalium Focusing Stick 163 
+Fine Twinspur Rifle 186 
+Rare Seraph Trident 815 
+Rare Wolfborn Staff 888 
+Masterwork Lion'S Fang Model Ii 255 
+Masterwork Improved Waterlogged Rifle 642 
+
+The content of bag 7 are as follows:::::
+Rare Glyphic Rifle 430 
+Rare Glyphic Rifle 469 
+Rare Warden Axe 798 
+Fine Experimental Collection Staff 522 
+Rare Warden Short Bow 878 
+Rare Wolfborn Staff 974 
+
+The content of bag 8 are as follows:::::
+Fine Opticalium Focusing Stick 162 
+Rare Lionguard Staff 442 
+Rare Norn Rifle 624 
+Rare Seraph Trident 859 
+Rare Ebon Vanguard Trident 844 
+Rare Verdant Axe 609 
+
+The content of bag 9 are as follows:::::
+Rare Ebon Vanguard Axe 884 
+Rare Verdant Short Bow 582 
+Rare Bandit Spire 923 
+Rare Warden Short Bow 813 
+Rare Wolfborn Staff 958 
+Masterwork Lion'S Fang Model Ii 225 
+
+The content of bag 10 are as follows:::::
+Fine Opticalium Focusing Stick 175 
+Fine Historian'S Staff 213 
+Rare Aureate Trident 598 
+Rare Warden Axe 766 
+Rare Seraph Trident 877 
+Rare Warden Short Bow 884 
+
+Looking for Masterwork Oooooo Chum Trispear... 
+
+Sorry the item you are looking for was not found!!!
+
+Single search:  4.740000076708384e-05
+Average:  3.142000023217406e-05
+The content of bag 1 are as follows:::::
+Fine Black Earth Trident 750 
+Rare Steam Short Bow 416 
+Rare Glyphic Trispear 408 
+Rare Ebon Vanguard Trident 378 
+Rare Wolfborn Rifle 877 
+Rare Seraph Trident 882 
+
+The content of bag 2 are as follows:::::
+Rare Krytan Trident 417 
+Rare Glyphic Axe 396 
+Rare Warden Trident 827 
+Rare Verdant Short Bow 586 
+Rare Wolfborn Staff 984 
+Masterwork Rifle 263 
+
+The content of bag 3 are as follows:::::
+Fine Black Earth Trident 719 
+Rare Glyphic Trispear 384 
+Fine Charged Staff 201 
+Rare Wolfborn Rifle 889 
+Rare Flame Short Bow 579 
+Rare Flame Staff 626 
+
+The content of bag 4 are as follows:::::
+Fine Black Earth Trident 711 
+Rare Steam Short Bow 413 
+Rare Glyphic Trispear 402 
+Rare Ebon Vanguard Trident 414 
+Fine Jeev'S Dusty Staff 293 
+Rare Warden Trident 805 
+
+The content of bag 5 are as follows:::::
+Rare Glyphic Trispear 415 
+Fine Charged Staff 185 
+Rare Warden Trident 884 
+Rare Black Earth Trident 858 
+Masterwork Rifle 240 
+Rare Shiverpeak Staff 448 
+
+The content of bag 6 are as follows:::::
+Fine Black Earth Trident 754 
+Rare Glyphic Trispear 400 
+Rare Ebon Vanguard Trident 860 
+Rare Wolfborn Rifle 913 
+Fine Togatl Trident 228 
+Rare Flame Staff 681 
+
+The content of bag 7 are as follows:::::
+Fine Black Earth Trident 736 
+Rare Ebon Vanguard Trident 410 
+Rare Warden Trident 803 
+Rare Verdant Short Bow 581 
+Rare Wolfborn Staff 884 
+Masterwork Rifle 266 
+
+The content of bag 8 are as follows:::::
+Rare Glyphic Trispear 400 
+Fine Charged Staff 197 
+Rare Warden Trident 823 
+Rare Flame Short Bow 615 
+Masterwork Rifle 273 
+Rare Shiverpeak Staff 454 
+
+The content of bag 9 are as follows:::::
+Fine Black Earth Trident 692 
+Rare Steam Short Bow 388 
+Rare Glyphic Trispear 411 
+Rare Ebon Vanguard Trident 408 
+Rare Wolfborn Rifle 1042 
+Rare Aureate Short Bow 618 
+
+The content of bag 10 are as follows:::::
+Rare Krytan Trident 413 
+Rare Glyphic Axe 417 
+Rare Warden Trident 828 
+Rare Verdant Short Bow 609 
+Rare Wolfborn Staff 923 
+Masterwork Rifle 278 
+
+Looking for Fine Ancient Focus... 
+
+Sorry the item you are looking for was not found!!!
+
+Single search:  5.919999966863543e-05
+Average:  4.489999992074445e-05

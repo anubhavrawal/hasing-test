@@ -1,0 +1,72 @@
+Enter the number of bags(Must be >0): Looking for Masterwork Sentinel'S Pistol... 
+
+Sorry the item you are looking for was not found!!!
+
+Single search:  0.001004800000373507
+Average:  0.0014758199999050704
+Looking for Masterwork Crusader'S Sword... 
+
+Sorry the item you are looking for was not found!!!
+
+Single search:  0.001453399996535154
+Average:  0.0021362799998314586
+Looking for Basic Dull Dagger... 
+
+Sorry the item you are looking for was not found!!!
+
+Single search:  0.0028754999984812457
+Average:  0.0035646800002723466
+Looking for Rare Aureate Longbow... 
+
+Sorry the item you are looking for was not found!!!
+
+Single search:  0.0018069000034302007
+Average:  0.001581159999841475
+Looking for Rare Verdant Focus... 
+
+Sorry the item you are looking for was not found!!!
+
+Single search:  0.0030470000019704457
+Average:  0.0025487799997790717
+Looking for Rare Glyphic Staff... 
+
+Sorry the item you are looking for was not found!!!
+
+Single search:  0.005418500000814674
+Average:  0.005496920000223326
+Looking for Fine Trident... 
+
+Sorry the item you are looking for was not found!!!
+
+Single search:  0.00284779999856255
+Average:  0.0015797699998074677
+Looking for Rare Steam Trident... 
+
+Sorry the item you are looking for was not found!!!
+
+Single search:  0.005675699998391792
+Average:  0.0068947499999922005
+Looking for Rare Flame Rifle... 
+
+Sorry the item you are looking for was not found!!!
+
+Single search:  0.005136099996889243
+Average:  0.004434570000012172
+Looking for Fine Twitchok'S Trusty Pistol... 
+
+Sorry the item you are looking for was not found!!!
+
+Single search:  0.003471500000159722
+Average:  0.002439130000129808
+Looking for Masterwork Bandit Cleaver... 
+
+Sorry the item you are looking for was not found!!!
+
+Single search:  0.003192300002410775
+Average:  0.003579610000087996
+Looking for Masterwork Lionguard Steel Mace... 
+
+Sorry the item you are looking for was not found!!!
+
+Single search:  0.007556299999123439
+Average:  0.005138060000172117

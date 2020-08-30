@@ -1,0 +1,72 @@
+Enter the number of bags(Must be >0): Looking for Masterwork Bandit Ward... 
+
+Sorry the item you are looking for was not found!!!
+
+Single search:  8.22000001790002e-05
+Average:  0.0001074499999958789
+Looking for Masterwork Patient Shield... 
+
+Sorry the item you are looking for was not found!!!
+
+Single search:  0.00015070000154082663
+Average:  0.00017858000028354583
+Looking for Fine Crusader'S Mace... 
+
+Sorry the item you are looking for was not found!!!
+
+Single search:  0.0003220999969926197
+Average:  0.0003335500001412584
+Looking for Rare Glyphic Icon... 
+
+Sorry the item you are looking for was not found!!!
+
+Single search:  0.0001799000019673258
+Average:  0.00018002999968302902
+Looking for Rare Flame Crusher... 
+
+Sorry the item you are looking for was not found!!!
+
+Single search:  0.00021130000095581636
+Average:  0.00024639000002935063
+Looking for Rare Lionguard Greatsword... 
+
+Sorry the item you are looking for was not found!!!
+
+Single search:  0.000519599998369813
+Average:  0.00045528000009653624
+Looking for Rare Verdant Staff... 
+
+Sorry the item you are looking for was not found!!!
+
+Single search:  0.00023949999740580097
+Average:  0.00015012000003480352
+Looking for Masterwork Bloodsaw Cleaver... 
+
+Sorry the item you are looking for was not found!!!
+
+Single search:  0.001009600000543287
+Average:  0.0007538599998952123
+Looking for Rare Verdant Spear... 
+
+Sorry the item you are looking for was not found!!!
+
+Single search:  0.0004172000008111354
+Average:  0.00047037000003911087
+Looking for Rare Adamant Guard Hammer... 
+
+Sorry the item you are looking for was not found!!!
+
+Single search:  0.00013559999933931977
+Average:  0.00015977000002749265
+Looking for Rare Pirate Speargun... 
+
+Sorry the item you are looking for was not found!!!
+
+Single search:  0.0002220999995188322
+Average:  0.0002648999998200452
+Looking for Rare Bandit Mallet... 
+
+Sorry the item you are looking for was not found!!!
+
+Single search:  0.00040209999860962853
+Average:  0.0004550100002234103
